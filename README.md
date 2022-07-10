@@ -1,0 +1,5 @@
+# Rustland monorepo
+
+## LICENSE
+
+MIT
